@@ -34,6 +34,8 @@
 
 Useful resource, for those who want to customize Windows 10 or Windows 11 images.
 
+Please read carefully the guide that comes with each repository and don't forget to make a backup, before you take any action. Any kind of damage or system failure caused, is not our responsibility.
+
 ## Tutorials
 <table>
     <thead>
