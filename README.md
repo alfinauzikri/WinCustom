@@ -20,11 +20,6 @@
     <img src="https://img.shields.io/github/stars/WinTenDev/WinCustom.svg"
       alt="Stars Status" />
   </a>
- <!-- License --> 
-  <a href="https://github.com/WinTenDev/WinNetMeter/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/WinTenDev/WinCustom.svg"
-      alt="License MIT" />
-  </a>
   <!-- Telegram -->
   <a href="https://t.me/WinTenDev">
     <img src="https://img.shields.io/static/v1.svg?logo=telegram&label=&message=@WinTenDev&color=blue"
