@@ -6,17 +6,17 @@
       alt="Contributions welcome" />
   </a>
  <!-- issues -->
-  <a href="https://github.com/WinTenDev/WinNetMeter/issues">
+  <a href="https://github.com/WinTenDev/WinCustom/issues">
     <img src="https://img.shields.io/github/issues/WinTenDev/WinCustom.svg"
       alt="Issues" />
   </a>
   <!-- Forks Status -->
-  <a href="https://github.com/WinTenDev/WinNetMeter/network/members">
+  <a href="https://github.com/WinTenDev/WinCustom/network/members">
     <img src="https://img.shields.io/github/forks/WinTenDev/WinCustom.svg"
       alt="Forks Status" />
   </a>
   <!-- Stars Status -->
-  <a href="https://github.com/WinTenDev/WinNetMeter/stargazers">
+  <a href="https://github.com/WinTenDev/WinCustom/stargazers">
     <img src="https://img.shields.io/github/stars/WinTenDev/WinCustom.svg"
       alt="Stars Status" />
   </a>
