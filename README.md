@@ -90,6 +90,7 @@ Please read carefully the guide that comes with each repository and don't forget
             <td><a href="https://tb.rg-adguard.net/public.php">https://tb.rg-adguard.net/public.php</a></td>
             <td>Alternative Windows &amp; Office download products directly from Microsoft Server.</td>
         </tr>
+
     </tbody>
 </table>
 
@@ -111,6 +112,11 @@ Please read carefully the guide that comes with each repository and don't forget
                     href="https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install">https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install</a>
             </td>
             <td>Windows Assessment and Deployment Kit.</td>
+        </tr>
+        <tr>
+            <td><strong>UUP dump</strong></td>
+            <td><a href="https://uupdump.net/">https://uupdump.net/</a></td>
+            <td>Download UUP files from Windows Update servers with ease.</td>
         </tr>
         <tr>
             <td><strong>Ventoy</strong></td>
