@@ -1,35 +1,32 @@
 # WinCustom
 <p align="left">
-  <!-- Contributions -->
-  <a href="">
-    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
-      alt="Contributions welcome" />
-  </a>
- <!-- issues -->
-  <a href="https://github.com/WinTenDev/WinCustom/issues">
-    <img src="https://img.shields.io/github/issues/WinTenDev/WinCustom.svg"
-      alt="Issues" />
-  </a>
-  <!-- Forks Status -->
-  <a href="https://github.com/WinTenDev/WinCustom/network/members">
-    <img src="https://img.shields.io/github/forks/WinTenDev/WinCustom.svg"
-      alt="Forks Status" />
-  </a>
-  <!-- Stars Status -->
-  <a href="https://github.com/WinTenDev/WinCustom/stargazers">
-    <img src="https://img.shields.io/github/stars/WinTenDev/WinCustom.svg"
-      alt="Stars Status" />
-  </a>
-  <!-- Telegram -->
-  <a href="https://t.me/WinTenDev">
-    <img src="https://img.shields.io/static/v1.svg?logo=telegram&label=&message=@WinTenDev&color=blue"
-      alt="Telegram" />
-  </a>
+    <!-- Contributions -->
+    <a href="">
+        <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions welcome" />
+    </a>
+    <!-- issues -->
+    <a href="https://github.com/WinTenDev/WinCustom/issues">
+        <img src="https://img.shields.io/github/issues/WinTenDev/WinCustom.svg" alt="Issues" />
+    </a>
+    <!-- Forks Status -->
+    <a href="https://github.com/WinTenDev/WinCustom/network/members">
+        <img src="https://img.shields.io/github/forks/WinTenDev/WinCustom.svg" alt="Forks Status" />
+    </a>
+    <!-- Stars Status -->
+    <a href="https://github.com/WinTenDev/WinCustom/stargazers">
+        <img src="https://img.shields.io/github/stars/WinTenDev/WinCustom.svg" alt="Stars Status" />
+    </a>
+    <!-- Telegram -->
+    <a href="https://t.me/WinTenDev">
+        <img src="https://img.shields.io/static/v1.svg?logo=telegram&label=&message=@WinTenDev&color=blue"
+            alt="Telegram" />
+    </a>
 </p>
 
 Useful resource, for those who want to customize Windows 10 or Windows 11 images.
 
-Please read carefully the guide that comes with each repository and don't forget to make a backup, before you take any action. Any kind of damage or system failure caused, is not our responsibility.
+Please read carefully the guide that comes with each repository and don't forget to make a backup, before you take any
+action. Any kind of damage or system failure caused, is not our responsibility.
 
 ## Tutorials
 <table>
@@ -90,7 +87,6 @@ Please read carefully the guide that comes with each repository and don't forget
             <td><a href="https://tb.rg-adguard.net/public.php">https://tb.rg-adguard.net/public.php</a></td>
             <td>Alternative Windows &amp; Office download products directly from Microsoft Server.</td>
         </tr>
-
     </tbody>
 </table>
 
