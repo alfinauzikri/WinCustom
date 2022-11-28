@@ -78,6 +78,11 @@ action. Any kind of damage or system failure caused, is not our responsibility.
             <td><em>Change your browser user-agent to Non-Windows like Linux or macOS.</em></td>
         </tr>
         <tr>
+            <td><strong>Office Tool Plus</strong></td>
+            <td><a href="https://github.com/YerongAI/Office-Tool">https://github.com/YerongAI/Office-Tool</a></td>
+            <td>Office Tool Plus localization projects.</td>
+        </tr>
+        <tr>
             <td><strong>Office Deployment Tool</strong></td>
             <td><a href="https://github.com/farag2/Office">https://github.com/farag2/Office</a></td>
             <td>Download and Setup Office 2019/2021/365.</td>
