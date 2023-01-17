@@ -78,6 +78,11 @@ action. Any kind of damage or system failure caused, is not our responsibility.
             <td><em>Change your browser user-agent to Non-Windows like Linux or macOS.</em></td>
         </tr>
         <tr>
+            <td><strong>AtlasOS</strong></td>
+            <td><a href="https://github.com/Atlas-OS/Atlas">https://github.com/Atlas-OS/Atlas</a></td>
+            <td>An open and transparent modification of the Windows 10 operating system, designed to optimize performance and latency.</td>
+        </tr>
+        <tr>
             <td><strong>Office Tool Plus</strong></td>
             <td><a href="https://github.com/YerongAI/Office-Tool">https://github.com/YerongAI/Office-Tool</a></td>
             <td>Office Tool Plus localization projects.</td>
