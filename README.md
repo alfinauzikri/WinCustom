@@ -5,21 +5,16 @@
         <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions welcome" />
     </a>
     <!-- issues -->
-    <a href="https://github.com/WinTenDev/WinCustom/issues">
-        <img src="https://img.shields.io/github/issues/WinTenDev/WinCustom.svg" alt="Issues" />
+    <a href="https://github.com/alfinauzikri/WinCustom/issues">
+        <img src="https://img.shields.io/github/issues/alfinauzikri/WinCustom.svg" alt="Issues" />
     </a>
     <!-- Forks Status -->
-    <a href="https://github.com/WinTenDev/WinCustom/network/members">
-        <img src="https://img.shields.io/github/forks/WinTenDev/WinCustom.svg" alt="Forks Status" />
+    <a href="https://github.com/alfinauzikri/WinCustom/network/members">
+        <img src="https://img.shields.io/github/forks/alfinauzikri/WinCustom.svg" alt="Forks Status" />
     </a>
     <!-- Stars Status -->
-    <a href="https://github.com/WinTenDev/WinCustom/stargazers">
-        <img src="https://img.shields.io/github/stars/WinTenDev/WinCustom.svg" alt="Stars Status" />
-    </a>
-    <!-- Telegram -->
-    <a href="https://t.me/WinTenDev">
-        <img src="https://img.shields.io/static/v1.svg?logo=telegram&label=&message=@WinTenDev&color=blue"
-            alt="Telegram" />
+    <a href="https://github.com/alfinauzikri/WinCustom/stargazers">
+        <img src="https://img.shields.io/github/stars/alfinauzikri/WinCustom.svg" alt="Stars Status" />
     </a>
 </p>
 
@@ -211,7 +206,7 @@ action. Any kind of damage or system failure caused, is not our responsibility.
 </table>
 
 ## Bug Report
-If you find a bug, kindly open an issue [here](https://github.com/WinTenDev/WinCustom/issues/new).
+If you find a bug, kindly open an issue [here](https://github.com/alfinauzikri/WinCustom/issues/new).
 
 ## Special Thanks to :
 - **Microsoft** - [@Microsoft](https://github.com/Microsoft "@Microsoft")
