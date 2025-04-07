@@ -78,6 +78,11 @@ action. Any kind of damage or system failure caused, is not our responsibility.
             <td>An open and transparent modification of the Windows 10 operating system, designed to optimize performance and latency.</td>
         </tr>
         <tr>
+            <td><strong>ReviOS</strong></td>
+            <td><a href="https://github.com/meetrevision">https://github.com/meetrevision</a></td>
+            <td>An open-source, community-driven Windows modification aimed at streamlining performance, reducing bloat, and enhancing user experience.</td>
+        </tr>
+        <tr>
             <td><strong>Office Tool Plus</strong></td>
             <td><a href="https://github.com/YerongAI/Office-Tool">https://github.com/YerongAI/Office-Tool</a></td>
             <td>Office Tool Plus localization projects.</td>
